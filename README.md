@@ -9,7 +9,7 @@
 ## Usage of dataset
 * The application would export a csv file that saves the detailed annotation information of the images in the dataset. The csv file is compiled in the format that conforms to the guideline of **AutoML Vision of Google Cloud Platform** ([Link](https://cloud.google.com/vision/automl/object-detection/docs/csv-format)).
 
-* With the csv file, the image dataset could be used to train an object detection model in the **AutoML Vision of Google Cloud Platform** .  The trained object detection model could identify and locate mahjong tiles within a live streaming video.
+* With the csv file, the image dataset could be used to train an object detection model in the **AutoML Vision of Google Cloud Platform**.  The trained object detection model could identify and locate mahjong tiles within a live streaming video.
 
     <img src="samples/object-detection.gif" width="200" alt="Sample GIF that demonstrates the object detection feature of the trained model"/>
 
